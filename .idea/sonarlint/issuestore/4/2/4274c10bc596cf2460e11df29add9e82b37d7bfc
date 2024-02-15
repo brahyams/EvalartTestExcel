@@ -1,0 +1,45 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(š¢Æ8‡¶ÛñÚ1
+Q
+java:S3740P"/Provide the parametrized type for this generic.(ıï§Šûÿÿÿÿ8ˆ¶ÛñÚ1
+R
+java:S3740•"/Provide the parametrized type for this generic.(¹ä¯ûşÿÿÿÿ8ˆ¶ÛñÚ1
+R
+java:S3740­"/Provide the parametrized type for this generic.(ù©Ûıÿÿÿÿ8ˆ¶ÛñÚ1
+M
+java:S3740³"/Provide the parametrized type for this generic.(Âóƒ8‰¶ÛñÚ1
+y	java:S127a"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö¸å”ıÿÿÿÿ8‰¶ÛñÚ1
+s	java:S127g"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÎ´?8Š¶ÛñÚ1
+y	java:S127j"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8Š¶ÛñÚ1
+y	java:S127t"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8Š¶ÛñÚ1
+8
+java:S1643U"Use a StringBuilder instead.(ı²–*8‹¶ÛñÚ1
+8
+java:S1643X"Use a StringBuilder instead.(ı²–*8‹¶ÛñÚ1
+8
+java:S1643["Use a StringBuilder instead.(ı²–*8‹¶ÛñÚ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ãïù8¬¸ÛñÚ1
+:
+java:S1118"Hide this public constructor.(Ãïù8®¸ÛñÚ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 95 to the 15 allowed.(—ûùœÿÿÿÿÿ8°¸ÛñÚ1
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Šˆ˜øÿÿÿÿ8¸¸ÛñÚ1
+X
+java:S1119"";Refactor the code to remove this label and the need for it.(ÇÑ¢‹8¿¸ÛñÚ1
+g
+java:S18589"J"dataVector" is an array of strings, there's no need to call "toString()".(òÛ”§8Á¸ÛñÚ1
+l
+java:S1858="J"dataVector" is an array of strings, there's no need to call "toString()".(âœ¶˜úÿÿÿÿ8Â¸ÛñÚ1
+E
+java:S1905U")Remove this unnecessary cast to "String".(ı²–*8Æ¸ÛñÚ1
+E
+java:S1905X")Remove this unnecessary cast to "String".(ı²–*8Ç¸ÛñÚ1
+E
+java:S1905[")Remove this unnecessary cast to "String".(ı²–*8Ç¸ÛñÚ1
+\
+java:S4719°"9Replace charset name argument with StandardCharsets.UTF_8(•¤«şÿÿÿÿ8Ï¸ÛñÚ1
+é
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 110 to 64, Complexity from 27 to 14, Nesting Level from 8 to 2, Number of Variables from 22 to 6.(—ûùœÿÿÿÿÿ8Ø¸ÛñÚ1
