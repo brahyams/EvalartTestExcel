@@ -1,4 +1,4 @@
-group 'EvalartAuto'
+group 'com.choucair'
 version '1.0'
 apply plugin: 'groovy'
 apply plugin: 'java'
