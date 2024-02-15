@@ -3,26 +3,10 @@
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-g
-7src/test/java/stepdefinitions/ParameterDefinitions.java,a\1\a1f63f5bfb6349cff7884650f51ab1b3ae5a709d
-\
-,src/test/java/runners/CompleteQuestions.java,d\5\d5a9d88db57ce4089d392e802db5e1a2884454b8
 C
 serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
 N
 src/main/java/tasks/Login.java,8\a\8a9a48966424dc7a8e9dd16e1e06c118616c7501
-c
-3src/test/java/stepdefinitions/CompleteQuestion.java,b\9\b97030596cda9a6d9a792652aa1a74d42c9bb8a5
-S
-#src/main/java/tasks/NavigateTo.java,5\7\57ae85f3939abf8ce22453f255ca56d8e169f94d
-d
-4src/main/java/userinterfaces/StartSharpHomePage.java,9\6\9626954c23828817eaa180dac8a85ad4cd7474dd
-b
-2src/main/java/userinterfaces/LoginSectionPage.java,a\f\afce092a60647cd410d81f12bbfb58a8b7271748
-a
-1src/main/java/userinterfaces/QuestionsModule.java,f\f\ff890e6eab92eccfe7149b12275e6acdace987a7
-Y
-)src/main/java/tasks/CompleteQuestion.java,3\4\34641f640f7b7a28fd4ea9a6f42fb6b6b48b4a3d
 Y
 )src/main/java/tasks/RetrieveHashCode.java,0\c\0c259f40b783bdc86c3d11952928a022c99e5a01
 ?
@@ -31,10 +15,6 @@ F
 src/test/serenity.conf,4\5\45a0902f025aff9017add173edeef35a0c444025
 X
 (src/test/java/runners/EvalartRunner.java,e\4\e4070f93f7626d6a8927acfd4a136a43bf80ec32
-Z
-*src/main/java/userinterfaces/HomePage.java,4\c\4cb30b8821f02754266850646a17f1ba6bcd4f2e
-[
-+src/main/java/userinterfaces/LoginPage.java,8\6\86d7d0d73615605f2c8bbd1d2aa19ab25e57d167
 N
 src/main/java/ui/HomePage.java,d\d\dd9f08f082f315e0ca145bdf0af8d20df8a41086
 R
@@ -55,13 +35,11 @@ T
 $src/main/java/utils/BeforeSuite.java,e\f\efde5252123955083211c16db4df92a4a3d7a259
 V
 &src/main/java/utils/DataToFeature.java,4\2\4274c10bc596cf2460e11df29add9e82b37d7bfc
-d
-4src/test/java/runners/excel/RunnerPersonalizado.java,8\4\84170ca01fd6d6315211448d0c67d0609b642e31
 N
 src/main/java/utils/Excel.java,d\b\dbbbfc5048ed040d7d802792090e2aad21d3f991
-`
-0src/test/java/stepdefinitions/ParameterDefs.java,6\9\6920bd281b565a471e232b539d985eae0d68ed0b
 O
 src/main/java/ui/LoginPage.java,1\7\1742d12a08362c0283fc945b2a2869d14038ef5c
 ^
 .src/test/java/runners/RunnerPersonalizado.java,a\8\a84075c2cc72b92092df32e8665b8e62f7539ddd
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
